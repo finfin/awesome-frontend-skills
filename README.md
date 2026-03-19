@@ -14,6 +14,7 @@ A curated list of frontend-related Agent Skills repositories that include a `SKI
 - [Design](#design)
 - [Animation](#animation)
 - [Testing](#testing)
+- [TypeScript](#typescript)
 - [Build Tools](#build-tools)
 - [Video](#video)
 - [Auth](#auth)
@@ -163,6 +164,13 @@ npx skills add <owner/repo> --all
 | [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) 🔺 Official | `playwright-cli` — Microsoft official Playwright CLI skill | `npx skills add microsoft/playwright-cli --skill playwright-cli` |
 | [wshobson/agents](https://github.com/wshobson/agents) | `e2e-testing-patterns` — E2E testing patterns and best practices | `npx skills add wshobson/agents --skill e2e-testing-patterns` |
 | [LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills) 🔺 Official | Multi-framework testing skills: Selenium, Playwright, Cypress, WebdriverIO, Puppeteer | `cp -r agent-skills/playwright-skill .claude/skills/` |
+
+---
+
+## TypeScript
+
+| Repository | Skill | Install |
+|---|---|---|
 | [bmad-labs/skills](https://github.com/bmad-labs/skills) | `typescript-clean-code` — TypeScript clean code patterns, architecture conventions, refactoring guidelines, and PR review principles | `npx skills add bmad-labs/skills --skill typescript-clean-code` |
 | [bmad-labs/skills](https://github.com/bmad-labs/skills) | `typescript-unit-testing` — TS/NestJS unit testing with Jest, DeepMocked, mongodb-memory-server, pg-mem, Kafka, and Redis | `npx skills add bmad-labs/skills --skill typescript-unit-testing` |
 | [bmad-labs/skills](https://github.com/bmad-labs/skills) | `typescript-e2e-testing` — TypeScript E2E testing strategy and TDD workflow | `npx skills add bmad-labs/skills --skill typescript-e2e-testing` |

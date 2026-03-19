@@ -14,6 +14,7 @@
 - [設計 Design](#設計-design)
 - [動畫 Animation](#動畫-animation)
 - [測試 Testing](#測試-testing)
+- [TypeScript](#typescript)
 - [建置工具 Build Tools](#建置工具-build-tools)
 - [影片製作 Video](#影片製作-video)
 - [認證 Auth](#認證-auth)
@@ -164,6 +165,13 @@ npx skills add <owner/repo> --all
 | [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) 🔺 官方 | `playwright-cli` — Microsoft 官方 Playwright CLI 技能 | `npx skills add microsoft/playwright-cli --skill playwright-cli` |
 | [wshobson/agents](https://github.com/wshobson/agents) | `e2e-testing-patterns` — E2E 測試模式與最佳實踐 | `npx skills add wshobson/agents --skill e2e-testing-patterns` |
 | [LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills) 🔺 官方 | Selenium、Playwright、Cypress、WebdriverIO、Puppeteer 等多框架測試技能 | `cp -r agent-skills/playwright-skill .claude/skills/` |
+
+---
+
+## TypeScript
+
+| 儲存庫 | 技能 | 安裝指令 |
+|---|---|---|
 | [bmad-labs/skills](https://github.com/bmad-labs/skills) | `typescript-clean-code` — TypeScript clean code 模式、架構規範、重構指引、PR review 原則 | `npx skills add bmad-labs/skills --skill typescript-clean-code` |
 | [bmad-labs/skills](https://github.com/bmad-labs/skills) | `typescript-unit-testing` — TS/NestJS 單元測試（Jest、DeepMocked、mongodb-memory-server、pg-mem、Kafka、Redis） | `npx skills add bmad-labs/skills --skill typescript-unit-testing` |
 | [bmad-labs/skills](https://github.com/bmad-labs/skills) | `typescript-e2e-testing` — TypeScript E2E 測試策略與 TDD 流程 | `npx skills add bmad-labs/skills --skill typescript-e2e-testing` |
