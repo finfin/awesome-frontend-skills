@@ -159,6 +159,7 @@ npx skills add <owner/repo> --all
 | 儲存庫 | 技能 | 安裝指令 |
 |---|---|---|
 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | `agent-browser` — 快速、持久的瀏覽器自動化，支援 15+ 指令類別（導航、快照、互動、資料擷取、截圖、JS 執行）；支援 headless、headed 與遠端雲端瀏覽器 | `npx skills add https://github.com/vercel-labs/agent-browser --skill agent-browser` |
+| [github/awesome-copilot](https://github.com/github/awesome-copilot) | `chrome-devtools` — 透過 Chrome DevTools Protocol 儷聯，支援專家級瀏覽器自動化與除錯：導航、互動、console/網路檢测、JS 執行、效能追蹤與 Core Web Vitals 分析 | `npx skills add github/awesome-copilot --skill chrome-devtools` |
 | [anthropics/skills](https://github.com/anthropics/skills) 🔺 官方 | `webapp-testing` — 以 Python Playwright 測試本地 Web App（含 `with_server.py` helper、reconnaissance-then-action 模式） | `npx skills add anthropics/skills --skill webapp-testing` |
 | [currents-dev/playwright-best-practices-skill](https://github.com/currents-dev/playwright-best-practices-skill) 🔺 官方 | `playwright-best-practices` — Playwright E2E、component、API、visual regression、a11y 測試最佳實踐 | `npx skills add currents-dev/playwright-best-practices-skill` |
 | [github/awesome-copilot](https://github.com/github/awesome-copilot) | `playwright-generate-test` — Playwright 測試程式碼生成 | `npx skills add github/awesome-copilot --skill playwright-generate-test` |
