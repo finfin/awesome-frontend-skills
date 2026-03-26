@@ -157,6 +157,7 @@ npx skills add <owner/repo> --all
 
 | Repository | Skill | Install |
 |---|---|---|
+| [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | `agent-browser` — Fast, persistent browser automation with 15+ command categories: navigation, snapshots, interactions, data extraction, screenshots, JS evaluation; supports headless, headed, and remote cloud browsers | `npx skills add https://github.com/vercel-labs/agent-browser --skill agent-browser` |
 | [anthropics/skills](https://github.com/anthropics/skills) 🔺 Official | `webapp-testing` — Test local web apps with Python Playwright (includes `with_server.py` helper, reconnaissance-then-action pattern) | `npx skills add anthropics/skills --skill webapp-testing` |
 | [currents-dev/playwright-best-practices-skill](https://github.com/currents-dev/playwright-best-practices-skill) 🔺 Official | `playwright-best-practices` — Playwright E2E, component, API, visual regression, and a11y testing best practices | `npx skills add currents-dev/playwright-best-practices-skill` |
 | [github/awesome-copilot](https://github.com/github/awesome-copilot) | `playwright-generate-test` — Generate Playwright test code | `npx skills add github/awesome-copilot --skill playwright-generate-test` |
