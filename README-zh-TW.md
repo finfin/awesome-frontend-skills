@@ -165,6 +165,7 @@ npx skills add <owner/repo> --all
 | [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) 🔺 官方 | `playwright-cli` — Microsoft 官方 Playwright CLI 技能 | `npx skills add microsoft/playwright-cli --skill playwright-cli` |
 | [wshobson/agents](https://github.com/wshobson/agents) | `e2e-testing-patterns` — E2E 測試模式與最佳實踐 | `npx skills add wshobson/agents --skill e2e-testing-patterns` |
 | [LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills) 🔺 官方 | Selenium、Playwright、Cypress、WebdriverIO、Puppeteer 等多框架測試技能 | `cp -r agent-skills/playwright-skill .claude/skills/` |
+| [addyosmani/web-quality-skills](https://github.com/addyosmani/web-quality-skills) | `web-quality` — 基於 Lighthouse 和 Core Web Vitals 的網頁品質優化（效能、無障礙 WCAG 2.2、SEO、最佳實踐，150+ 審查規則）；支援 React、Vue、Angular、Svelte、Next.js、Nuxt、Astro | `npx skills add addyosmani/web-quality-skills` |
 
 ---
 

@@ -164,6 +164,7 @@ npx skills add <owner/repo> --all
 | [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli) 🔺 Official | `playwright-cli` — Microsoft official Playwright CLI skill | `npx skills add microsoft/playwright-cli --skill playwright-cli` |
 | [wshobson/agents](https://github.com/wshobson/agents) | `e2e-testing-patterns` — E2E testing patterns and best practices | `npx skills add wshobson/agents --skill e2e-testing-patterns` |
 | [LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills) 🔺 Official | Multi-framework testing skills: Selenium, Playwright, Cypress, WebdriverIO, Puppeteer | `cp -r agent-skills/playwright-skill .claude/skills/` |
+| [addyosmani/web-quality-skills](https://github.com/addyosmani/web-quality-skills) | `web-quality` — Web quality optimization based on Lighthouse and Core Web Vitals (performance, accessibility WCAG 2.2, SEO, best practices; 150+ audit rules); supports React, Vue, Angular, Svelte, Next.js, Nuxt, Astro | `npx skills add addyosmani/web-quality-skills` |
 
 ---
 
