@@ -53,6 +53,7 @@ npx skills add <owner/repo> --all
 | 儲存庫 | 技能 | 安裝指令 |
 |---|---|---|
 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | `frontend-ui-engineering` — 元件架構、設計系統、狀態管理、響應式設計、WCAG 2.1 AA 無障礙設計；建立或修改使用者介面時自動觸發 | `npx skills add addyosmani/agent-skills --skill frontend-ui-engineering` |
+| [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue) | 11 個 `markstream-*` 技能 — 安裝、遷移、自訂並整合 AI 對話的串流 Markdown 渲染，支援 Vue/Nuxt、React、Svelte、Angular 與 Vue 2 | `npx skills add Simon-He95/markstream-vue` |
 
 ### React
 
