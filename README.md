@@ -52,6 +52,7 @@ npx skills add <owner/repo> --all
 | Repository | Skill | Install |
 |---|---|---|
 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | `frontend-ui-engineering` — Component architecture, design systems, state management, responsive design, WCAG 2.1 AA accessibility; auto-triggers when building or modifying user-facing interfaces | `npx skills add addyosmani/agent-skills --skill frontend-ui-engineering` |
+| [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue) | 11 `markstream-*` skills — Install, migrate, customize, and integrate streaming Markdown rendering for AI chat across Vue/Nuxt, React, Svelte, Angular, and Vue 2 | `npx skills add Simon-He95/markstream-vue` |
 
 ### React
 
