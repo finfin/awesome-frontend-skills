@@ -143,6 +143,7 @@ npx skills add <owner/repo> --all
 
 | Repository | Skill | Install |
 |---|---|---|
+| [uizze/uizze](https://github.com/uizze/uizze) | `anti-ui-slop` — Ground UI decisions in 800,000+ real web and iOS screens, define a design contract, cover required states, and run a finish gate before shipping | `npx skills add https://uizze.com --skill anti-ui-slop` |
 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | `ui-ux-pro-max` — 50+ styles, 161 color combos, 57 font pairings, 99 UX principles, 25 chart types; supports `--design-system`/`--domain`/`--stack` queries | `npx skills add nextlevelbuilder/ui-ux-pro-max-skill` |
 | [supercent-io/skills-template](https://github.com/supercent-io/skills-template) | `frontend-design-system` — Frontend design system construction guide | `npx skills add supercent-io/skills-template --skill frontend-design-system` |
 | [github/awesome-copilot](https://github.com/github/awesome-copilot) | `web-design-reviewer` — Web design review and feedback | `npx skills add github/awesome-copilot --skill web-design-reviewer` |
