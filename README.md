@@ -148,6 +148,7 @@ npx skills add <owner/repo> --all
 | [github/awesome-copilot](https://github.com/github/awesome-copilot) | `web-design-reviewer` — Web design review and feedback | `npx skills add github/awesome-copilot --skill web-design-reviewer` |
 | [kimny1143/claude-code-template](https://github.com/kimny1143/claude-code-template) | `ui-ux-pro-max` — UI/UX design best practices | `npx skills add kimny1143/claude-code-template --skill ui-ux-pro-max` |
 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | `frontend-design` — Enhanced Anthropic frontend-design skill with curated anti-patterns across typography, color, layout, and motion; guides AI to create distinctive, production-grade UI | `npx skills add pbakaus/impeccable --skill frontend-design` |
+| [uizze/uizze](https://github.com/uizze/uizze) | `anti-ui-slop` free UI quality workflow for coding agents; full UIZZE adds design contracts, validation, audits, rendered critique, and live search across 800,000+ real web and iOS screens | `npx skills add uizze/uizze --skill anti-ui-slop` |
 
 ---
 
