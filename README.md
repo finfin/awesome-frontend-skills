@@ -136,6 +136,7 @@ npx skills add <owner/repo> --all
 | [giuseppe-trisciuoglio/developer-kit](https://github.com/giuseppe-trisciuoglio/developer-kit) | `shadcn-ui` — Complete shadcn/ui guide (Radix UI, Zod form validation, charts, controlled components) | `npx skills add giuseppe-trisciuoglio/developer-kit --skill shadcn-ui` |
 | [jezweb/claude-skills](https://github.com/jezweb/claude-skills) | `tailwind-v4-shadcn` — Tailwind v4 + shadcn/ui integration | `npx skills add jezweb/claude-skills --skill tailwind-v4-shadcn` |
 | [vercel/components.build](https://github.com/vercel/components.build) 🔺 Official | `building-components` — Vercel component building guide | `npx skills add vercel/components.build --skill building-components` |
+| [allxsmith/bestax](https://github.com/allxsmith/bestax/tree/main/skills) 🔺 Official | `bestax-layout-scaffold` — Responsive page layouts with Bestax, the React component library for Bulma v1 (app shells, dashboards, landing, auth and settings pages); sibling skills cover forms, theming and dark mode, icons, CSS size and migration | `npx skills add https://github.com/allxsmith/bestax --skill bestax-layout-scaffold` |
 
 ---
 
