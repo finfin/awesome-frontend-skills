@@ -148,6 +148,7 @@ npx skills add <owner/repo> --all
 | [github/awesome-copilot](https://github.com/github/awesome-copilot) | `web-design-reviewer` — Web design review and feedback | `npx skills add github/awesome-copilot --skill web-design-reviewer` |
 | [kimny1143/claude-code-template](https://github.com/kimny1143/claude-code-template) | `ui-ux-pro-max` — UI/UX design best practices | `npx skills add kimny1143/claude-code-template --skill ui-ux-pro-max` |
 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | `frontend-design` — Enhanced Anthropic frontend-design skill with curated anti-patterns across typography, color, layout, and motion; guides AI to create distinctive, production-grade UI | `npx skills add pbakaus/impeccable --skill frontend-design` |
+| [struqapp/struq-design](https://github.com/struqapp/struq-design) | `struq`: plans a marketing site first (direction, two typefaces, a palette, a GSAP and Lenis motion language), then builds it on Next.js from admitted blocks: preloaders, page transitions, heroes, WebGL backgrounds | `npx skills add struqapp/struq-design --skill struq` |
 
 ---
 
