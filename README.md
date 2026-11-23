@@ -185,6 +185,7 @@ npx skills add <owner/repo> --all
 |---|---|---|
 | [sanyuan0704/sanyuan-skills](https://github.com/sanyuan0704/sanyuan-skills) | `code-review-expert` — Comprehensive code review with SOLID principles, security scan (XSS, injection, SSRF), performance (N+1, caching), error handling; P0–P3 severity, confirms with user before fixes | `npx skills add sanyuan0704/sanyuan-skills --path skills/code-review-expert` |
 | [awesome-skills/code-review-skill](https://github.com/awesome-skills/code-review-skill) | `code-review-skill` — 11+ language/framework guides (React 19, Vue 3.5, TypeScript, Java, Go, Rust, C/C++, CSS, architecture, performance); four-phase review process; 6-tier severity labels (blocking → praise); progressive loading (~190 lines core + on-demand references) | `git clone https://github.com/awesome-skills/code-review-skill ~/.claude/skills/code-review-skill` |
+| [zColdWater/omniforge-skills](https://github.com/zColdWater/omniforge-skills) | `vibeshield-prelaunch-audit` — Pre-launch frontend & web security audit covering 52 client-side JS secret-leak patterns, 10 Mozilla Observatory headers, CSP AST, Supabase/Firebase RLS, and email/AI-search readiness | `npx skills add zColdWater/omniforge-skills` |
 
 ---
 
